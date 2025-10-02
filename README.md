@@ -4,8 +4,6 @@
   On a mission to make data meaningful and actionable 💡
 </p>
 
----
-
 ### 🚀 About Me
 - 🌟 Led **100+ analytics projects** — from reducing patient wait times by **15%** to boosting clinical workflow efficiency by **30%**  
 - 📊 Expert in **SQL, Python, Tableau, and Power BI** for predictive modeling & BI solutions  
